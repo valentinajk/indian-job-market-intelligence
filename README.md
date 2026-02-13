@@ -1,3 +1,7 @@
+Live Application:
+https://indian-job-market-intelligence-hqh6zmo2pypkqoqdrzckqc.streamlit.app/
+
+
 Indian Job Market Intelligence Dashboard
 
 Overview
@@ -32,4 +36,5 @@ Technology Stack
 
 Purpose
 The goal of this project is to demonstrate real-world data cleaning, exploratory data analysis, machine learning modeling, and deployment of an interactive analytics dashboard.
+
 
